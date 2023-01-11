@@ -1,1 +1,0 @@
-This is a folder where you will find python basic and advance theory and programs.
